@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of supply chain operat
 ---
 
 ## 🚀 Key Features & Insights
-- **Financial Performance:** Tracked a total sales volume of **33.35M** with a net profit margin of **6.38%**.
+- **Financial Performance:** Tracked a total sales volume of **33.35M** with a profit margin of **6.38%**.
 - **Supply Chain Monitoring:** Analyzed the gap between purchased quantities (646K units) and sold quantities (296K units) to optimize inventory turnover.
 - **Trend Analysis:** Monthly comparison between sales and purchases to identify seasonal peaks and cash flow requirements.
 - **Top Performers:** Identification of high-value clients and top-selling products based on average selling price vs. cost.
