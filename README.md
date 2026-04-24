@@ -26,9 +26,6 @@ This Power BI dashboard provides a comprehensive analysis of supply chain operat
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](Dashboard.jpeg) 
-*(Make sure the image file name matches the one you uploaded to GitHub)*
-
----
 
 ## 💬 Client Testimonial
 > "The dashboard provided a level of clarity we didn't have before. Being able to track the profit margin per product category in real-time has significantly improved our procurement strategy."
